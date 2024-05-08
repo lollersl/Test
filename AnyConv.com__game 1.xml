@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&#13;</para>
+  <para>&lt;webpage&gt;&#13;</para>
+  <para>  &lt;iframe src="https://google.com" frameborder="0" width="100%" height="100%"&gt;&lt;/iframe&gt;&#13;</para>
+  <para>&lt;/webpage&gt;&#13;</para>
+</article>
